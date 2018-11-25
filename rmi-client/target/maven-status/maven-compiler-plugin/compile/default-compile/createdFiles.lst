@@ -1,0 +1,6 @@
+com\practice\rmi\ClientProxy.class
+com\practice\rmi\IHelloService.class
+com\practice\rmi\RpcRequest.class
+com\practice\rmi\TCPTransport.class
+com\practice\rmi\Demo.class
+com\practice\rmi\RemoteInvocationHandler.class
