@@ -1,0 +1,7 @@
+com\practice\rmi\HelloServiceImpl.class
+com\practice\rmi\RpcRequest.class
+com\practice\rmi\App.class
+com\practice\rmi\IHelloService.class
+com\practice\rmi\ProcessorHandler.class
+com\practice\rmi\RpcServer.class
+com\practice\rmi\ServerDemo.class
